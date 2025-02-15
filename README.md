@@ -1,7 +1,7 @@
 # Github Finder
 
-This project is a part of a React course, by Brad Traversy from Udemy.
-https://www.udemy.com/course/modern-react-front-to-back/
+- This project is a part of a React course, by Brad Traversy from Udemy.
+- [Link](https://www.udemy.com/course/modern-react-front-to-back/) to the course.
 
 ## Usage
 1) Run `npm install` to install packages
